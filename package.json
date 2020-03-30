@@ -1,0 +1,11 @@
+{
+  "name": "node-fetecno",
+  "version": "1.0.0",
+  "description": "Estudo básico do Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe <FETECNO>",
+  "license": "ISC"
+}
